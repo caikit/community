@@ -113,7 +113,7 @@ Conduct](https://github.com/caikit/community/blob/main/code-of-conduct.md).
 Caikit is a community project. Consequently, it is wholly dependent on
 its community to provide a productive, friendly, and collaborative environment.
 
-- [TODO: Add contributor roles]
+- See [Community Membership](https://github.com/caikit/community/blob/main/community-membership.md) for a list the various responsibilities of contributor roles. You are encouraged to move up this contributor ladder as you gain experience.
 
 # Your First Contribution
 
@@ -220,7 +220,7 @@ mention approvers or maintainers of this repository.
 If you haven't noticed by now, we have a large, lively, and friendly open-source
 community. We depend on new people becoming members and regular code
 contributors, so we would like you to come join us! The [Community Membership
-Document]()
+Document](https://github.com/caikit/community/blob/main/community-membership.md)
 covers membership processes and roles.
 
 ## Contributions
@@ -232,7 +232,8 @@ Contributions of preexisting code fall into two broad categories:
   ongoing maintenance of their own, and/or introduce nuanced licensing issues
 
 Large contributions – or small contributions that turn up complex issues during PR
-review – may require an [Architecture Decision Record (ADR)]() to be created.
+review – may require an [Architecture Decision Record (ADR)](https://github.com/caikit/community/blob/main/adrs/README.md)
+to be created.
 
 All contributed code requires a license compatible with the Apache Software License
 2.0, and contributed code will require a change of copyright to reflect the
