@@ -76,7 +76,7 @@ Defined by: Member of the Caikit GitHub organization
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
 - Members can review and approve via the GitHub workflow.  This review work is
-  not sufficient to merge a PR.  There will still need to be a review by an
+  not sufficient to merge a PR.  There will still need to be a review by a
   *maintainer*.
 - Members can be assigned to issues and PRs, and people can ask members for
   reviews with a `/cc @username`.
@@ -149,7 +149,7 @@ approver in the `CODEOWNERS` files.
 - Demonstrate sound technical judgement (may be asked to step down by a maintainer if they lose confidence of the maintainers)
 - Responsible for project quality control via code reviews
   - Focus on holistic acceptance of contribution such as dependencies with other
-    features, backwards / forwards compatibility, API and flag definitions, etc
+    features, backwards / forwards compatibility, API and flag definitions, etc.
 - Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
 - Mentor contributors and reviewers
 - May approve code contributions for acceptance
@@ -247,5 +247,5 @@ CONTRIBUTING, CODEOWNERS, or README of the project they are stepping away
 from. GitHub usernames listed under the `emeritus` section should be removed
 from the approvers list, and will no longer have any official responsibilities
 with the project. When a contributor returns to being more active, they may be
-promoted back to a their previous position at the discretion of the current
+promoted back to their previous position at the discretion of the current
 maintainers following the process defined above.
